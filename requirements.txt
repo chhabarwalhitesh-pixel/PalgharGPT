@@ -1,0 +1,9 @@
+# The notebook installs missing packages automatically.
+# Install a CUDA-compatible PyTorch build separately for your runtime.
+PyMuPDF
+pandas
+transformers
+datasets
+peft
+bitsandbytes
+accelerate
