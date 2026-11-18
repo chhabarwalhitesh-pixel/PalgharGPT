@@ -1,0 +1,21 @@
+# Source PDFs: publish only when redistribution rights are confirmed.
+original_pdfs/
+*.pdf
+
+# Generated datasets and model artifacts can be large and may contain source text.
+dataset/
+output/
+PalgharGPT_LoRA/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.zip
+
+# Python / notebook runtime files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
